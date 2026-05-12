@@ -28,9 +28,6 @@ Explore featured Stellar ecosystem tokens:
 - OrbitX
 - LuminaAI
 - StarFuel
-- AstroXLM
-- NebulaX
-- XLMoon
 
 Each token includes:
 - Market stats
@@ -150,15 +147,6 @@ Artificial intelligence token for trend prediction and automated analytics.
 
 ## StarFuel
 Gaming and metaverse payment token built on Stellar.
-
-## AstroXLM
-Web3 creator economy and decentralized identity project.
-
-## NebulaX
-DAO governance token supporting ecosystem expansion.
-
-## XLMoon
-Community-powered trend token inspired by Stellar market momentum.
 
 ---
 
